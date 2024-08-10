@@ -14,6 +14,7 @@ This project is a Python and R program built to generate payment slips for worke
 - `HIghRidge_Python.ipynb`: This is my Python implementation of the payslips.
 - `HIghRidge_R.ipynb`: This is my R implementation of the weekly payment system.
 - `README.md`: This is me providing context on the project and instructions on how to use the code.
+- NB : I did NOT ZIP the files again because I saw an announcement asking us not to ZIP it again
 
 ## Running the Code
 - **Python**: 
